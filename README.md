@@ -6,6 +6,7 @@ Welcome to my portfolio! This is a summary of my Python projects including games
 - [Games](#games)
 - [JIG-3000](#jig-3000)
 - [UFC Fighter Stats](#webcrawler/webscraper)
+- [Platzhalter](#platzhalter)
 
 ***
 
@@ -22,7 +23,7 @@ Welcome to my portfolio! This is a summary of my Python projects including games
 
 | Project Link | Project Description | Libraries |
 |---|---|---|
-| 🤖 [JIG-3000](HERE GOES THE LINK TO THE REPO) |  | customtkinter, random, sqlite |
+| 🤖 [JIG-3000](https://github.com/Patrickularly/JIG_3000) |  | customtkinter, random, sqlite |
 
 ***
 
@@ -31,5 +32,13 @@ Welcome to my portfolio! This is a summary of my Python projects including games
 | Projekt Link | Project Description | Libraries |
 |---|---|---|
 | [UFC Fighter Stats](https://github.com/Patrickularly/WebScraWler) | UFC fighter stats | bs4, random, requests, selenium, time |
+
+***
+
+# Platzhalter
+
+||||
+|---|---|---|
+| []() |||
 
 ***
