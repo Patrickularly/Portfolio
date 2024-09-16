@@ -1,6 +1,6 @@
 # 🗺 Patrick's Portfolio
 
-Welcome to my portfolio! This is a summary of my Python projects including games, apps and webcrawling/ webscraping. 
+Welcome to my portfolio! This is a summary of my Python projects. 
 
 ## 📚 Table of Contents
 - [Games](#games)
@@ -23,15 +23,15 @@ Welcome to my portfolio! This is a summary of my Python projects including games
 
 | Project Link | Project Description | Libraries |
 |---|---|---|
-| 🤖 [JIG-3000](https://github.com/Patrickularly/JIG_3000) |  | customtkinter, random, sqlite |
+| 🤖 [JIG-3000](https://github.com/Patrickularly/JIG_3000) |  | customtkinter, random, sqlite3 |
 
 ***
 
-# Webcrawler/webscraper
+# Webcrawler_Webscraper
 
 | Projekt Link | Project Description | Libraries |
 |---|---|---|
-| [UFC Fighter Stats](https://github.com/Patrickularly/WebScraWler) | UFC fighter stats | bs4, random, requests, selenium, time |
+| 🥊 [UFC Top 10 Fighter Stats](https://github.com/Patrickularly/Webcrawler_Webscraper) | This script scrapes fighter data from Tapology, gathering profile details (name, nickname, record, etc.) for the top 10 fighters from ranking pages. It uses Selenium and BeautifulSoup to extract data and writes the results to a CSV file. | bs4, csv, random, requests, selenium, time |
 
 ***
 
